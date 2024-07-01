@@ -1,0 +1,1 @@
+This code sends _emails_ through _Gmail_.
